@@ -9,10 +9,10 @@
   "NFT_NAME": "Tigxels",
   "SYMBOL": "TGX",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 0,
-  "DISPLAY_COST": 0,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tigxels",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tigxels",
   "SHOW_BACKGROUND": true
 }
